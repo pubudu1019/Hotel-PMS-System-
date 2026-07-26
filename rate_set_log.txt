@@ -1,0 +1,119 @@
+
+2026-07-18 12:38:37 ===== START: Res 65, Room 6 =====
+2026-07-18 12:38:37 - Room query executed
+2026-07-18 12:38:37 - Room type found: 'Suite'
+2026-07-18 12:38:37 - LIKE MATCH: Rate = 28000.00
+2026-07-18 12:38:37 ✅ SUCCESS: Room rate set to 28000.00 for Res 65
+2026-07-18 12:38:37 ===== END =====
+
+2026-07-18 12:43:00 ===== START: Res 66, Room 10 =====
+2026-07-18 12:43:00 - Room query executed
+2026-07-18 12:43:00 - Room type found: 'Deluxe'
+2026-07-18 12:43:00 - LIKE MATCH: Rate = 14000.00
+2026-07-18 12:43:00 ✅ SUCCESS: Room rate set to 14000.00 for Res 66
+2026-07-18 12:43:00 ===== END =====
+
+2026-07-18 13:02:21 ===== START: Res 67, Room 5 =====
+2026-07-18 13:02:21 - Room query executed
+2026-07-18 13:02:21 - Room type found: 'Suite'
+2026-07-18 13:02:21 - LIKE MATCH: Rate = 28000.00
+2026-07-18 13:02:21 ✅ SUCCESS: Room rate set to 28000.00 for Res 67
+2026-07-18 13:02:21 ===== END =====
+
+2026-07-18 13:11:43 ===== START: Res 68, Room 11 =====
+2026-07-18 13:11:43 - Room query executed
+2026-07-18 13:11:43 - Room type found: 'Deluxe Room'
+2026-07-18 13:11:43 - EXACT MATCH: Rate = 14000.00
+2026-07-18 13:11:43 ✅ SUCCESS: Room rate set to 14000.00 for Res 68
+2026-07-18 13:11:43 ===== END =====
+
+2026-07-18 13:22:00 ===== START: Res 69, Room 8 =====
+2026-07-18 13:22:00 - Room query executed
+2026-07-18 13:22:00 - Room type found: 'Standard'
+2026-07-18 13:22:00 - LIKE MATCH: Rate = 8500.00
+2026-07-18 13:22:00 ✅ SUCCESS: Room rate set to 8500.00 for Res 69
+2026-07-18 13:22:00 ===== END =====
+
+2026-07-20 11:10:33 ===== START: Res 70, Room 8 =====
+2026-07-20 11:10:33 - Room query executed
+2026-07-20 11:10:33 - Room type found: 'Standard'
+2026-07-20 11:10:33 - LIKE MATCH: Rate = 8500.00
+2026-07-20 11:10:33 ✅ SUCCESS: Room rate set to 8500.00 for Res 70
+2026-07-20 11:10:33 ===== END =====
+
+2026-07-20 13:29:37 ===== START: Res 71, Room 10 =====
+2026-07-20 13:29:37 - Room query executed
+2026-07-20 13:29:37 - Room type found: 'Deluxe'
+2026-07-20 13:29:37 - LIKE MATCH: Rate = 14000.00
+2026-07-20 13:29:37 ✅ SUCCESS: Room rate set to 14000.00 for Res 71
+2026-07-20 13:29:37 ===== END =====
+
+2026-07-21 09:11:57 ===== START: Res 72, Room 11 =====
+2026-07-21 09:11:57 - Room query executed
+2026-07-21 09:11:57 - Room type found: 'Deluxe Room'
+2026-07-21 09:11:57 - EXACT MATCH: Rate = 14000.00
+2026-07-21 09:11:57 ✅ SUCCESS: Room rate set to 14000.00 for Res 72
+2026-07-21 09:11:57 ===== END =====
+
+2026-07-21 11:43:22 ===== START: Res 73, Room 89 =====
+2026-07-21 11:43:22 - Room query executed
+2026-07-21 11:43:22 - Room type found: 'Deluxe'
+2026-07-21 11:43:22 - LIKE MATCH: Rate = 14000.00
+2026-07-21 11:43:22 ✅ SUCCESS: Room rate set to 14000.00 for Res 73
+2026-07-21 11:43:22 ===== END =====
+
+2026-07-21 11:56:25 ===== START: Res 74, Room 4 =====
+2026-07-21 11:56:25 - Room query executed
+2026-07-21 11:56:25 - Room type found: 'Standard'
+2026-07-21 11:56:25 - LIKE MATCH: Rate = 8500.00
+2026-07-21 11:56:25 ✅ SUCCESS: Room rate set to 8500.00 for Res 74
+2026-07-21 11:56:25 ===== END =====
+
+2026-07-21 17:59:34 ===== START: Res 76, Room 8 =====
+2026-07-21 17:59:34 - Room query executed
+2026-07-21 17:59:34 - Room type found: 'Standard'
+2026-07-21 17:59:34 - LIKE MATCH: Rate = 8500.00
+2026-07-21 17:59:34 ✅ SUCCESS: Room rate set to 8500.00 for Res 76
+2026-07-21 17:59:34 ===== END =====
+
+2026-07-21 18:19:18 ===== START: Res 77, Room 91 =====
+2026-07-21 18:19:18 - Room query executed
+2026-07-21 18:19:18 - Room type found: 'Standard'
+2026-07-21 18:19:18 - LIKE MATCH: Rate = 8500.00
+2026-07-21 18:19:18 ✅ SUCCESS: Room rate set to 8500.00 for Res 77
+2026-07-21 18:19:18 ===== END =====
+
+2026-07-22 07:09:16 ===== START: Res 78, Room 5 =====
+2026-07-22 07:09:16 - Room query executed
+2026-07-22 07:09:16 - Room type found: 'Suite'
+2026-07-22 07:09:16 - LIKE MATCH: Rate = 28000.00
+2026-07-22 07:09:16 ✅ SUCCESS: Room rate set to 28000.00 for Res 78
+2026-07-22 07:09:16 ===== END =====
+
+2026-07-22 07:22:24 ===== START: Res 79, Room 90 =====
+2026-07-22 07:22:24 - Room query executed
+2026-07-22 07:22:24 - Room type found: 'Suite'
+2026-07-22 07:22:24 - LIKE MATCH: Rate = 28000.00
+2026-07-22 07:22:24 ✅ SUCCESS: Room rate set to 28000.00 for Res 79
+2026-07-22 07:22:24 ===== END =====
+
+2026-07-22 07:44:24 ===== START: Res 80, Room 9 =====
+2026-07-22 07:44:24 - Room query executed
+2026-07-22 07:44:24 - Room type found: 'Suite'
+2026-07-22 07:44:24 - LIKE MATCH: Rate = 28000.00
+2026-07-22 07:44:24 ✅ SUCCESS: Room rate set to 28000.00 for Res 80
+2026-07-22 07:44:24 ===== END =====
+
+2026-07-22 07:46:18 ===== START: Res 81, Room 1 =====
+2026-07-22 07:46:18 - Room query executed
+2026-07-22 07:46:18 - Room type found: 'Deluxe'
+2026-07-22 07:46:18 - LIKE MATCH: Rate = 14000.00
+2026-07-22 07:46:18 ✅ SUCCESS: Room rate set to 14000.00 for Res 81
+2026-07-22 07:46:18 ===== END =====
+
+2026-07-22 18:27:55 ===== START: Res 85, Room 94 =====
+2026-07-22 18:27:55 - Room query executed
+2026-07-22 18:27:55 - Room type found: 'Standard'
+2026-07-22 18:27:55 - LIKE MATCH: Rate = 8500.00
+2026-07-22 18:27:55 ✅ SUCCESS: Room rate set to 8500.00 for Res 85
+2026-07-22 18:27:55 ===== END =====

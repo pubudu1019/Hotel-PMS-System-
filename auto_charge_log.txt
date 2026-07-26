@@ -1,0 +1,39 @@
+2026-07-18 08:09:55 - Res 58: Room rate is 0 or null (value: NULL).
+2026-07-18 11:44:52 - Res 62: Room rate set from room_type (28000.00) for 'suite'.
+2026-07-18 11:44:52 - Res 62: Room charge added successfully (LKR 28000).
+2026-07-21 10:08:22 - === PROCESSING CHECK-IN FOR RES 72 ===
+2026-07-21 10:08:22 - Res 72: Status updated to Checked-In
+2026-07-21 10:08:22 - Res 72: Room 11 set to occupied
+2026-07-21 10:08:22 - Res 72: Starting set_room_rate()
+2026-07-21 10:08:22 - Res 72: Already has rate: 14000.00
+2026-07-21 10:08:22 - Res 72: Starting auto_add_room_charge()
+2026-07-21 10:08:22 - Res 72: Already has room charge - skipping
+2026-07-21 10:08:22 - === CHECK-IN COMPLETE FOR RES 72 ===
+2026-07-21 10:14:58 - === PROCESSING CHECK-IN FOR RES 72 ===
+2026-07-21 10:14:58 - Res 72: Status updated to Checked-In
+2026-07-21 10:14:58 - Res 72: Room 11 set to occupied
+2026-07-21 10:14:58 - Res 72: Starting set_room_rate()
+2026-07-21 10:14:58 - Res 72: Already has rate: 14000.00
+2026-07-21 10:14:58 - Res 72: Starting auto_add_room_charge()
+2026-07-21 10:14:58 - Res 72: Already has room charge - skipping
+2026-07-21 10:14:58 - === CHECK-IN COMPLETE FOR RES 72 ===
+2026-07-21 11:36:15 - === PROCESSING CHECK-IN FOR RES 72 ===
+2026-07-21 11:36:15 - Res 72: Check-in failed - Room 111 is occupied
+2026-07-21 11:40:19 - === PROCESSING CHECK-IN FOR RES 72 ===
+2026-07-21 11:40:19 - Res 72: Check-in failed - Room 111 is occupied
+2026-07-21 11:40:50 - === PROCESSING CHECK-IN FOR RES 72 ===
+2026-07-21 11:40:50 - Res 72: Status updated to Checked-In
+2026-07-21 11:40:50 - Res 72: Room 11 set to occupied
+2026-07-21 11:40:50 - Res 72: Starting set_room_rate()
+2026-07-21 11:40:50 - Res 72: Already has rate: 14000.00
+2026-07-21 11:40:50 - Res 72: Starting auto_add_room_charge()
+2026-07-21 11:40:50 - Res 72: Already has room charge - skipping
+2026-07-21 11:40:50 - === CHECK-IN COMPLETE FOR RES 72 ===
+2026-07-21 11:57:07 - === PROCESSING CHECK-IN FOR RES 74 ===
+2026-07-21 11:57:07 - Res 74: Status updated to Checked-In
+2026-07-21 11:57:07 - Res 74: Room 4 set to occupied
+2026-07-21 11:57:07 - Res 74: Starting set_room_rate()
+2026-07-21 11:57:07 - Res 74: Already has rate: 8500.00
+2026-07-21 11:57:07 - Res 74: Starting auto_add_room_charge()
+2026-07-21 11:57:07 - Res 74: Room charge added - LKR 8500 (1 nights @ 8500.00)
+2026-07-21 11:57:07 - === CHECK-IN COMPLETE FOR RES 74 ===
